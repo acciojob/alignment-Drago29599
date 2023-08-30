@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+#heading {
+	text-align:center;
+}
+
+tr,th,td,table {
+	border: 1px solid black;
+}
